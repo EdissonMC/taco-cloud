@@ -1,4 +1,4 @@
-package com.tacocloud.tacocloud.data;
+package com.tacocloud.tacocloud;
 
 import java.util.List;
 
